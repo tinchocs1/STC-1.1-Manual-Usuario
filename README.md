@@ -13,7 +13,7 @@ El **STC-1.1** surge como Trabajo de Grado en la **Escuela Universitaria Centro 
 - **Eficiencia Térmica:** Sistema basado en resistencias de cromo-níquel con control de temperatura (50-300°C).
 
 ## 📂 Contenido del Repositorio
-* **[Manual_de_Usuario_STC-1.1.pdf](Manual de Usuario  STC-1_1 - Martin Castro Sosa - TG2025.pdf):** Guía completa de armado, lista de componentes, esquemas eléctricos y normas de seguridad.
+* **[Manual_de_Usuario_STC-1.1.pdf]:** Guía completa de armado, lista de componentes, esquemas eléctricos y normas de seguridad.
 
 ## 🛠️ Especificaciones Técnicas
 - **Motores:** Sincrónicos de rotación constante.
